@@ -1,0 +1,22 @@
+# Choose The Appropriate Emojis for Commit Message
+# 🚀:Development, 🔥:Feature, 🔨: Bug Fix
+# 🔧:Refactored Code, 🎨: Styling, 📝:Documentation
+# 🧪:Tests, 🧰:Chore, 🪛:Work in Progress
+# 🦾:Performance, 🔙:Revert Back
+[🚀,🔥,🔨,🔧,🎨,📝,🧪,🧰,🪛,🦾] Subject Line [Branch]
+
+Why the changes were done? 
+
+Changes to be committed:
+    - What Changes were done?
+    - In Bullet Points
+
+Files to be committed:
+    <Git Status Files>
+
+Issue(s) #XYZ Resolved.
+Feature Request [#XYZ/Jira Ticket/Other] Completed.
+
+Co-Authored By: Name (<Email>)
+Date: dd/mm/yyyy, hh:mm [P.M./A.M.]
+Thank You! ❤️
