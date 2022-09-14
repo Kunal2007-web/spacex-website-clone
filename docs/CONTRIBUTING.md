@@ -27,7 +27,7 @@ As a Contributor to this project, we expect you to recognize your responsibiliti
 - Do not try to demotivate or demoralize newcomers.
 - Create issues for any major changes and enhancements that you wish to make. Discuss things transparently and get community feedback.
 - Always fork & create new branch to contribute code.
-- Follow the Code of Conduct.
+- Follow the [Code of Conduct](https://github.com/Kunal2007-web/spacex-website-clone/blob/main/docs/CODE_OF_CONDUCT.md).
 
 ## What should be my First Contribution
 
